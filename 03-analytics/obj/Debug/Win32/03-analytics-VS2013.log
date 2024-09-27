@@ -1,0 +1,9 @@
+﻿Build started 09.09.2024 10:03:15.
+     1>Project "D:\chai3d-3.1.1\examples\GLUT\03-analytics\03-analytics-VS2013.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         03-analytics-VS2013.vcxproj -> D:\chai3d-3.1.1\examples\GLUT\03-analytics\../../../bin/win-Win32\03-analytics.exe
+     1>Done Building Project "D:\chai3d-3.1.1\examples\GLUT\03-analytics\03-analytics-VS2013.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.18
